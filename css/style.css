@@ -30,15 +30,16 @@ body{
 }
 
 #container p{
-    font-size: 14px;
     width: 250px;
     margin: 0 auto;
 }
 
 
 .attribution { 
-    font-size: 11px; text-align: center; 
+    font-size: 11px; text-align: center;
+    margin-top: 20px;
 }
+
 .attribution a {
     color: hsl(228, 45%, 44%); 
 }
